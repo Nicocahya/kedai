@@ -22,7 +22,7 @@ document.querySelector('#shopping-cart-button').onclick = (e) => {
   e.preventDefault();
 };
 
-// Klik di luar elemen
+// Klik di luar elemens
 const hm = document.querySelector('#hamburger-menu');
 const sb = document.querySelector('#search-button');
 const sc = document.querySelector('#shopping-cart-button');
